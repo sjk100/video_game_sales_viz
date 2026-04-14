@@ -8,7 +8,7 @@
 
 **[View on Tableau Public](https://public.tableau.com/app/profile/sam.kidd1822/viz/video_game_sales_viz/Dashboard1)**
 
-**[View on GitHub Pages](GITHUB PAGES LINK)**
+**[View on GitHub Pages](https://sjk100.github.io/video_game_sales_viz/)**
 
 ---
 
